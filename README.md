@@ -1,3 +1,3 @@
 ﻿# React-Facts
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Chaitya02/React-Facts/blob/main/image.png)https://github.com/Chaitya02/React-Facts/blob/main/image.png)
+![image](https://github.com/Chaitya02/React-Facts/assets/112513370/6f6193ba-8ea6-4687-ba09-dc23b3905722)
