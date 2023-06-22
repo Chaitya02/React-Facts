@@ -42,7 +42,7 @@ h3 {
 .main {
   padding: 20px;
   height: 75vh;
-  background-image: url('../public/images/react-icon.png');
+  background-image: url('/images/react-icon.png');
   background-repeat: no-repeat;
   background-position: right center;
 }
