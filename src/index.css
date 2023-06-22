@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #282D35;
+  color: #FFFFFF;
+}
+
+nav {
+  background-color: #21222A;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.8rem;
+}
+
+h2 {
+  color: #61DAFB;
+  font-weight: 700;
+}
+
+h3 {
+  color: #DEEBF8;
+  font-weight: 600;
+}
+
+.logo {
+  width: 60px;
+  padding: 3%;
+}
+
+.brand {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.main {
+  padding: 20px;
+  height: 75vh;
+  background-image: url('../public/images/react-icon.png');
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+
+ul {
+  line-height: 2;
+}
+
+ul>li {
+  font-weight: 400;
+  font-size: 1.2rem;
+  max-width: 450px;
+}
+
+ul>li::marker {
+  font-size: 1.4rem;
+  color: #61DAFB;
+}
